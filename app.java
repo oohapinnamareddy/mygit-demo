@@ -6,3 +6,4 @@ public class SumNumbers {
         System.out.println("The sum is: " + sum);
     }
 }
+here i have added some data 
